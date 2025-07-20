@@ -1,6 +1,6 @@
 # GherisNetQuiz
 
-![Banner](https://via.placeholder.com/800x200.png?text=GherisNetQuiz)  
+
 
 *An interactive quiz to learn network fundamentals in an engaging way.*
 
@@ -85,27 +85,15 @@ To use the quiz, follow these steps:
 ```
 
 **Sample Screenshot**:  
-![Quiz Screenshot](https://via.placeholder.com/600x400.png?text=GherisNetQuiz)
+
+<img width="1255" height="859" alt="Screenshot 2025-07-19 185103" src="https://github.com/user-attachments/assets/50f7fcd2-8c5a-45d0-a414-0f111a14ce00" />
+
+
+<img width="1008" height="766" alt="Screenshot 2025-07-19 185131" src="https://github.com/user-attachments/assets/ca9fe747-dd13-4a8d-8da1-d6d00c5d42bd" />
+
 
 ---
 
-## Contributing
-Want to improve the quiz? Follow these steps:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/new-feature`).
-3. Modify the source code in `gheris_net_quiz.py` and regenerate the executable with PyInstaller.
-4. Commit your changes (`git commit -m "Added new feature"`).
-5. Push the branch (`git push origin feature/new-feature`).
-6. Open a Pull Request on GitHub.
-
-See the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
-
-**Contribution Ideas**:
-- Add new quiz questions.
-- Enhance the GUI with new themes or animations.
-- Implement translations for additional languages.
-
----
 
 ## License
 This project is licensed under the [MIT License](LICENSE.md). You may use, modify, and distribute the code freely, subject to the license terms.
