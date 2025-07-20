@@ -12,7 +12,6 @@
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
 - [Contact](#contact)
@@ -105,14 +104,11 @@ This project is licensed under the [MIT License](LICENSE.md). You may use, modif
 - **Resources Used**:
   - [Python Documentation](https://docs.python.org/3/) for `tkinter` and JSON.
   - [PyInstaller](https://pyinstaller.org/) for creating the executable.
-  - [Shields.io](https://shields.io/) for custom badges.
-- **Contributors**: Thanks to everyone who has contributed to the project!
 
 ---
 
 ## Contact
 Have questions or suggestions? Reach out:
-- **Email**: gheris@example.com
 - **GitHub**: [Gheris](https://github.com/Gheris)
 
 ---
