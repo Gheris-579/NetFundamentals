@@ -85,10 +85,11 @@ To use the quiz, follow these steps:
 
 **Sample Screenshot**:  
 
-<img width="1255" height="859" alt="Screenshot 2025-07-19 185103" src="https://github.com/user-attachments/assets/50f7fcd2-8c5a-45d0-a414-0f111a14ce00" />
+
+<img width="1282" height="867" alt="Screenshot 2025-07-21 005822" src="https://github.com/user-attachments/assets/552fe013-bb27-4abe-987c-d358ba7b1fd3" />
 
 
-<img width="1008" height="766" alt="Screenshot 2025-07-19 185131" src="https://github.com/user-attachments/assets/ca9fe747-dd13-4a8d-8da1-d6d00c5d42bd" />
+<img width="1423" height="914" alt="Screenshot 2025-07-21 005805" src="https://github.com/user-attachments/assets/f2878c6e-6d5f-4ca3-850b-dca11377180e" />
 
 
 ---
